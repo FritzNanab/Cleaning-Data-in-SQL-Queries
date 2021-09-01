@@ -1,1 +1,1 @@
-# Cleaning-Data-in-SQL-Queries
+# Cleaning Data in SQL Queries
